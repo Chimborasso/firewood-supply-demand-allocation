@@ -40,3 +40,7 @@ This Python workflow reproduces the core allocation logic, honours capacity limi
 - Python ≥ 3.9  
 - pandas
 
+Install with:
+
+```bash
+pip install pandas
